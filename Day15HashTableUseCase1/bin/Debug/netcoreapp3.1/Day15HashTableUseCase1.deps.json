@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Day15HashTableUseCase1/1.0.0": {
+        "runtime": {
+          "Day15HashTableUseCase1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day15HashTableUseCase1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
